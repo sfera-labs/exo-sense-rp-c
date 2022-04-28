@@ -96,7 +96,7 @@ int main() {
 
     sleep_ms(3000);
 
-    // Useless: just to show of the EXOS_I2C_ADDR_* constants
+    // Useless: just to show the EXOS_I2C_ADDR_* constants
     if (sht4x_get_configured_address() != EXOS_I2C_ADDR_SENS_TEMP_RH) {
         printf("SHT4x lib error\n");
     }
