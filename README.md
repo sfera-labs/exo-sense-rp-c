@@ -1,4 +1,4 @@
-# Exo Sense RP C/C++ development
+# Exo Sense RP - Raspberry Pi Pico C/C++ SDK
 
 This repository contains the resources for low-level C/C++ development on [Exo Sense RP](https://www.sferalabs.cc/product/exo-sense-rp/).
 
