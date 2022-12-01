@@ -5,7 +5,7 @@ This repository contains the resources for low-level C/C++ development on [Exo S
 For other ways of programming Exo Sense RP go to:    
 https://github.com/sfera-labs/exo-sense-rp
 
-This repository is structured as a standard project for the [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)(tested with SDK version 1.3.0), which provides all the resources needed to program Exo Sense RP in C/C++.
+This repository is structured as a standard project for the [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk) (tested with SDK version 1.3.0), which provides all the resources needed to program Exo Sense RP in C/C++.
 
 The [exo_sense_rp library](./lib/exo_sense_rp) consists of a simple header file you can include in your project. It contains the #defines to easily map Exo's I/Os to the corresponding RP2040 GPIOs, as well as I2C addresses and other constants for Exo's sensors, to be used as parameters for the standard SDK functions and third party libraries.
 
